@@ -1,6 +1,6 @@
 # Shopper-Spectrum
 
-​# 🛒 Shopper Spectrum: E-Commerce Segmentation & Recommendation
+​🛒 Shopper Spectrum: E-Commerce Segmentation & Recommendation
 
 ## 📖 Project Overview
 This project is a complete, end-to-end Machine Learning pipeline designed to analyze e-commerce transaction data, segment customers based on purchasing behavior, and recommend products using collaborative filtering. 
